@@ -23,7 +23,10 @@ Apache Spark utiliza una arquitectura maestro-esclavo con un coordinador central
 3. **Memory Management**
    - Almacenamiento en memoria para operaciones iterativas
    - Cache y persist para reutilización de datos
-   - Spill to disk cuando sea necesario
+   - Spill to disk cuando sea necesario: Escribe en el disco duro si es que la memoria RAM no es suficiente
+
+
+![image](https://github.com/user-attachments/assets/9dba8126-d80d-487f-88d9-f3ef2c8dcba0)
 
 ### Estructuras de Datos en Apache Spark
 
@@ -150,6 +153,8 @@ Se elige Apache Spark por su capacidad de procesar datos a gran escala de forma 
 - Introducción express a Apache Spark: https://youtu.be/IELMSD2kdmk?si=-9Xo0PjTDprSIyOY
 - Curso de Apache Spark de Platzi
 - https://ieeexplore-ieee-org.ezproxy.ulima.edu.pe/document/10718602
+- https://elmundodelosdatos.com/dominando-apache-spark-ii-funcionamiento-interno-y-arquitectura/
+- https://gaurav98095.medium.com/delving-deep-into-data-spill-in-apache-spark-88c90c578f5a
 
 ## Alternativas:
 - https://docs.coiled.io/blog/tpch.html?utm_source=dask.org&utm_medium=homepage
