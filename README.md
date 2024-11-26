@@ -162,3 +162,12 @@ Se elige Apache Spark por su capacidad de procesar datos a gran escala de forma 
 - https://docs.coiled.io/blog/tpch.html
 - https://docs.coiled.io/blog/dask-dataframe-is-fast.html
 - https://flink.apache.org/what-is-flink/use-cases/
+
+## Para datasets pequeños
+- Pandas
+- Polars
+
+### Comparación Pandas vs Polars 
+- https://medium.com/@nandeda.narayan/data-processing-at-scale-comparison-of-pandas-polars-and-dask-333ae65c0a45
+- https://medium.com/@husein2709/pandas-2-0-vs-polars-pvp-d8aec54c3fc8
+- https://medium.com/@larissa.herrmann/pandas-and-large-files-20fae52d94ff
