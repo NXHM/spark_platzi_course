@@ -147,4 +147,13 @@ Se elige Apache Spark por su capacidad de procesar datos a gran escala de forma 
 - **Consultas Interactivas**: Exploración de datos de forma rápida e interactiva.
 
 ## Recursos:
-- Curso de Apache Spark
+- Introducción express a Apache Spark: https://youtu.be/IELMSD2kdmk?si=-9Xo0PjTDprSIyOY
+- Curso de Apache Spark de Platzi
+- https://ieeexplore-ieee-org.ezproxy.ulima.edu.pe/document/10718602
+
+## Alternativas:
+- https://docs.coiled.io/blog/tpch.html?utm_source=dask.org&utm_medium=homepage
+- https://docs.coiled.io/blog/spark-vs-dask.html?utm_source=dask.org&utm_medium=homepage
+- https://docs.coiled.io/blog/tpch.html
+- https://docs.coiled.io/blog/dask-dataframe-is-fast.html
+- https://flink.apache.org/what-is-flink/use-cases/
