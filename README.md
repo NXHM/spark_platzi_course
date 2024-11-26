@@ -53,7 +53,7 @@ Apache Spark utiliza una arquitectura maestro-esclavo con un coordinador central
 
 ## Alternativas a Apache Spark detalladas
 
-### Hadoop MapReduce
+### Hadoop MapReduce - HDFS
 - **Descripción**: Framework de procesamiento distribuido para conjuntos de datos masivos.
 - **Características principales**:
   - Procesamiento en disco
